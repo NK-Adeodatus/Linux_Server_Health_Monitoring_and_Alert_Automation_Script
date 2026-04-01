@@ -1,6 +1,6 @@
-# Linux Server Health Monitor & Alert Bot
+# Linux Server Health Monitor & Alert Automation Script
 
-A lightweight, interactive Bash script designed to monitor system vitals and provide automated threshold-based alerts for Linux servers.
+Thi is an interactive Bash script designed to monitor system vitals and provide automated threshold-based alerts for Linux servers.
 
 ## 🚀 Features
 
